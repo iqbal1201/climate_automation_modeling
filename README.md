@@ -1,4 +1,4 @@
-## Python Automation (Arcpy) For Climate Data Modeling ##
+## Software Engineering: Python Automation (Arcpy) For Climate Data Modeling ##
 
 #### Background ###
 This project was developed with the aim of displaying rainfall data and rain characteristics over various periods (10-day and monthly) in Indonesia. The system consists of an automation system to re-interpolate weather data, display it, and generate analytical reports on national and provincial rainfall and rain characteristics in Indonesia. In this section, the device reads initial data in the form of CSV files that represent location data related to rainfall (measured in millimeters) and rain characteristics (expressed as a percentage unit). There are two types of CSV data in this system: 10-day period data and monthly period data. Thus, the system generally processes four types of data, which are combinations of 10-day rainfall analysis data (ACHdas), monthly rainfall analysis data (ACHbln), 10-day rain characteristics analysis data (ASHdas), and monthly rain characteristics analysis data (ASHbln). An overview of the data used in this system can be seen in the image below.
